@@ -62,6 +62,7 @@ def run_phq9_test():
             - 자살예방상담전화: 1393
             - 정신건강상담전화: (02) 2204-0114
             - 가까운 정신건강복지센터 찾기: [링크](https://www.mentalhealth.go.kr/portal/health/fac/PotalHealthFacListTab2.do)
+            - 좀더 많은 정보를 알고 싶다면: [링크](https://lzhakko.tistory.com/)
             ''')
 
 if __name__ == '__main__':
